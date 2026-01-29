@@ -78,6 +78,7 @@ The dataset consists of **1000+ student records** with the following attributes:
 ### Phase 3: Data Preparation
 - Train-test split (80–20 with stratification)
 - Feature scaling using StandardScaler (for SVM)
+- Class Imbalance (SMOTE)
 
 ### Phase 4: Model Training
 - SVM with RBF kernel
